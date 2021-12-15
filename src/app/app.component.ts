@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'elearn';
+  url = ".\assets\images\showcase.svg";
 }
